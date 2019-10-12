@@ -1,4 +1,7 @@
 """
+
+Ejercicio practicando con los warpper.
+
 def login(func):
     print("01")
     def auth(*args, **kwargs):
